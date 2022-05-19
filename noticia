@@ -9,7 +9,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/strea
 #EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-0r8RRVRjd6M/YT5KFMtPUpI/AAAAAAAAAMo/qOFJfC-VD1Esph40PZf4IxKvVP3NzR-hgCLcBGAsYHQ/h120/RT.png"group-title="España",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-mCGw9w72UsQ/YUDlY4_9CtI/AAAAAAAAAO4/OXF1sRluaS0m74yTTadIZOukowPpHOB8wCLcBGAsYHQ/h120/Canal_9.png"group-title="España",Canal 9 (ARGENTINA)
+#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-mCGw9w72UsQ/YUDlY4_9CtI/AAAAAAAAAO4/OXF1sRluaS0m74yTTadIZOukowPpHOB8wCLcBGAsYHQ/h120/Canal_9.png"group-title="España",Canal 9
 https://edge-vod04-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9-mp4a_145200_spa=20002-avc1_2499968=10007.m3u8
 
 #EXTINF:-1,	tvg-logo="https://mms.businesswire.com/media/20140422006583/es/412503/5/Telemundo_Logo.jpg"group-title="España",Telemundo
