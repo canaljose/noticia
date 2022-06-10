@@ -12,8 +12,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 #EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-mCGw9w72UsQ/YUDlY4_9CtI/AAAAAAAAAO4/OXF1sRluaS0m74yTTadIZOukowPpHOB8wCLcBGAsYHQ/h120/Canal_9.png"group-title="España",Canal 9 (ARGENTINA)
 https://edge-vod04-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9-mp4a_145200_spa=20002-avc1_2499968=10007.m3u8
 
-#EXTINF:-1,	tvg-logo="https://mms.businesswire.com/media/20140422006583/es/412503/5/Telemundo_Logo.jpg"group-title="España",Telemundo
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CpUFO555XJnqLtKCRQlSNI8-WFXK1L09r1JYoTkuDfpez5MpFCX-7MnlOnrYKsg9oIHUuKFjOF02Bz_H5b-oDpmckr_tZaSxB7hZVAb7qJ_Pu-3yoYKdBhk4V4tqicaNAXifL-XgpqoWyOr4lAo45oGYpo09YuYsYmZvSELZwCO_39P7owRRPattCyqA52-S5oLUfVfy66qLw7N-i31xjJsSYb-dnoXtd7UajM4XcXp2r5__twODag6UI_1og21S4fNOqElNOTmt__g54uF5X3iqTdWLXiBm3108YarnsUa3E4YMKA5lL-w8HwvqYBBy0LpEWlxdRn9KrtmBBd30OTSpDc-gFyuqYbyLcMrBApoRjr1lKoKhMVA5eyxb-eps5bcEl1lSuLP0tR-AXYGpkNvYiHMUJkNwq1NsXYJ3qb4zhFYHZyw_ha5abBaSorZNljjbEx8ahkLFAXF4F0svfD_1XE979N8R5VNv9Q6yRdq7-fLMpPtX0SoYEwSamEFTDQmOWmrgm4yH31V7iW1VNMvTERZzeXvYrCQqhxNJY26APVuVhb5sbkFBxsama9KcinM17muaBZraZjFL1ECjFmIGmW5pfLnvV08dhib1CNevOymwUrgpj91An8menmVyw_KZ_SZvryDIMZF08N2uwqjWc90Pj2Z3SpD3tqsn4AeQrJZUzQ58xsMCo1WMl0bm5ffvgmDoQKI0gNTZMqwCXqbfCtNsORRHStJCC_QvGKRBtNI-4HrAI6gJnjhfsxmCA7FE3fgZUPGrV9cfqpDUHHGvybTsx_q8pBXXuNH8UxDFvQu0WwdNL2Es8zJb65kzF45iOMxaDIS1hCpQ0esIc5oNM5NNrMkhfmQgwc99naZ4d01PImn4QBoMzi9vFVtHlj_8zxmcIAEqCWV1LXdlc3QtMjDgAw.m3u8
+#EXTINF:-1,	tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png"group-title="España",Caracol Noticia
+https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1,	tvg-logo="https://3.bp.blogspot.com/-pq7OzRyC3dI/WotiYeBoqMI/AAAAAAAAAa0/2HCEqUmNjkw_iaQj1IBhKxB-wFrKIiTuwCLcBGAs/s1600/univision.png"group-title="España",Univision
 
