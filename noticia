@@ -1,21 +1,39 @@
 #EXTM3U
-
-#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-akcrmoPPNPY/YT5IhHkjm7I/AAAAAAAAAMg/XUVvIU00AacfChaqRK9kQsCdbzlY3QtWQCLcBGAsYHQ/h120/CNN_ES.png"group-title="España",CNN
-https://edge-vod04-sl.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol-mp4a_144800_spa=20000-avc1_3000000=10004.m3u8
-
-#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-NXeOW-qF-o8/YT5Gw1ptDCI/AAAAAAAAAMI/U2sdIQl6enYq-NS5_BrYSKKJcQtDqPyHQCLcBGAsYHQ/h120/DW.png"group-title="España",DW
+#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-NXeOW-qF-o8/YT5Gw1ptDCI/AAAAAAAAAMI/U2sdIQl6enYq-NS5_BrYSKKJcQtDqPyHQCLcBGAsYHQ/h120/DW.png"group-title="NOTICIA",DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-0r8RRVRjd6M/YT5KFMtPUpI/AAAAAAAAAMo/qOFJfC-VD1Esph40PZf4IxKvVP3NzR-hgCLcBGAsYHQ/h120/RT.png"group-title="España",RT
+#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-0r8RRVRjd6M/YT5KFMtPUpI/AAAAAAAAAMo/qOFJfC-VD1Esph40PZf4IxKvVP3NzR-hgCLcBGAsYHQ/h120/RT.png"group-title="NOTICIA",RT
 https://rt-esp.rttv.com/live/rtesp/playlist_4500Kb.m3u8
 
-#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-mCGw9w72UsQ/YUDlY4_9CtI/AAAAAAAAAO4/OXF1sRluaS0m74yTTadIZOukowPpHOB8wCLcBGAsYHQ/h120/Canal_9.png"group-title="España",Canal 9 (ARGENTINA)
+#EXTINF:-1,	tvg-logo="https://lh3.googleusercontent.com/-mCGw9w72UsQ/YUDlY4_9CtI/AAAAAAAAAO4/OXF1sRluaS0m74yTTadIZOukowPpHOB8wCLcBGAsYHQ/h120/Canal_9.png"group-title="NOTICIA",Canal 9 (ARGENTINA)
 https://edge-vod04-sl.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9-mp4a_145200_spa=20002-avc1_2499968=10007.m3u8
 
-#EXTINF:-1,	tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png"group-title="España",Caracol Noticia
+#EXTINF:-1,	tvg-logo="https://platform-static.cdn.mdstrm.com/player/logo/589b13f631f1bebd088ff756.png"group-title="NOTICIA",Caracol Noticia
 https://mdstrm.com/live-stream-playlist/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1,	tvg-logo="https://3.bp.blogspot.com/-pq7OzRyC3dI/WotiYeBoqMI/AAAAAAAAAa0/2HCEqUmNjkw_iaQj1IBhKxB-wFrKIiTuwCLcBGAs/s1600/univision.png"group-title="España",Univision
+#EXTINF:-1,	tvg-logo="https://3.bp.blogspot.com/-pq7OzRyC3dI/WotiYeBoqMI/AAAAAAAAAa0/2HCEqUmNjkw_iaQj1IBhKxB-wFrKIiTuwCLcBGAs/s1600/univision.png"group-title="NOTICIA",Univision
+https://v-la.mybtv.net/live/178.m3u8
 
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Co0FpT3oWXtdtkjfvLlqKazkyBgOkMyJGR9LdxWTwRbuylKi-47UGUdz4gvl1PXUlTSFeitOt81a0yNQgC-qRRBGn4rONdglEFeKKeFArpDHgrZkEQx2JALgSTavp-JfMmE0gx9vjhaqvrXxVmF-rSP8O-700rhuHNoUsZjUimr3RREbHYXbctgrlkuZj9U4OE9d0i9XX0F9Q5rrs0vXSDcbPjHeUTHv2fxYliSP1NBCHMWKuAF5jgBya3LptvVxr9OwCZTtG96qOkrJQrBvAYAVRC3uQ1_zF6mxqD_d82eBzZB2J9Z05KaYaodTBULHxv8C3X9OWOGWOf7peS8CZJUxQjKXMCSzJhmDOO2zR3hCOJ-RLOonCYueygxzpCJbIkcv74s_1yMtPuN6wMi0_o1h4LmLK9klINzUGJMM_RdvVEVpg6nHEg-SD5Lv0hMZFwj0l8GA4tcvVDvSBlUNljqDR3mVct30o8DKjy-fdcpJJsx8Mxaa3-lo6BVUgiVRb7e6YkMjORenQV2MyYEFIZbaoJaBxDXB_Bk65Vz1OiUFDGK-1mWy8PNn4w-YrflHg1wifHCwzIi28SzC9j2_nWgmnbmRav_3-DF2mFVIS5lnISgx_e-dgybvY_wpZgkpaliYxsT4O-4bRZRKk9sH_JJKT7gSQV7nptsDaInfQr20WuRDUZHFRE4PR0CON7gbFVKtQXTSJj1BX8Q6jnM3EQHiihFsVKe24V6qyDVd88n4FqjmYT9IiT0jmtQ_Jf2fG49oerwXertozsftpNzA7pJUvViupyWuF2HnpTLPTta4JZikYpfcGHaEiganK4YucnCWmdj6J9i8M63bJKjjA0Py4uKOk9Dcen4Sth3WKJ4aDLUcwDPj1epQNh6r7CABKglldS13ZXN0LTIw4AM.m3u8
+#EXTINF:-1,	tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg"group-title="NOTICIA",TELEMUNDO NY
+https://v-ny.mybtv.net/live/659.m3u8
 
+#EXTINF:-1,	tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg"group-title="NOTICIA",PUERTORICO
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1,	tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg"group-title="NOTICIA",TELEMUNDO CALIFORNIA
+https://v-ca.mybtv.net/live/140.m3u8
+
+#EXTINF:-1,	tvg-logo="http://www.brandemia.org/wp-content/uploads/2012/06/logo_principal_telemundo.jpg"group-title="NOTICIA",TELEMUNDO ARIZONA
+https://v-px.mybtv.net/live/39.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.festivalprisma.com/wp-content/uploads/2018/09/telemetro-1-300x300.jpg"group-title="Panama",TELEMETRO TV
+https://mdstrm.com/live-stream-playlist/5d88dd2229b0890723df2165.m3u8
+
+#EXTINF:-1,tvg-logo="https://tvonlinegratis.com/wp-content/uploads/2014/05/rpc-logo-300x300.jpg"group-title="Panama",RPC TV
+https://mdstrm.com/live-stream-playlist/5d88d659120a717cf93ce620.m3u8
+
+#EXTINF:-1,tvg-logo="https://www.tvmax-9.com/mas_deportes/Panama-Open-inicia-viernes_3980926.jpg"group-title="Panama",TVMAX
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1,tvg-logo="https://play-lh.googleusercontent.com/s5jjnXICbH4A_rQxq7IgqzMwCtRR8YrWg2bNm4-GZQXYt3lzjA5TqRXpqCRDeZohlkVN"group-title="Panama",TVN
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/playlist_dvr.m3u8
